@@ -1,4 +1,4 @@
-# fuck-nazri comand😾😾
+# fuck-nazri comand😾😾,
 
 tnx using my tolls😾😾🖕
 
@@ -14,10 +14,12 @@ pkg install git
 
 pkg install pip2 
 
+rm -rf fuck-nazri
+
 git clone https://github.com/siam00000/fuck-nazri
 
 cd fuck-nazri
 
 ls
 
-python Fuck-nazri-xd.py
+python Fuck-nazri-xd1.py
